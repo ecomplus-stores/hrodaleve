@@ -2,12 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
     <url>
-      <loc>https://hrodaleve.netlify.app/medidor-nivel-de-oleo---cg-125150---bros125150</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://hrodaleve.netlify.app/motores-pequenos</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -80,15 +74,15 @@
     </url>
   
     <url>
-      <loc>https://hrodaleve.netlify.app/</loc>
-      <changefreq>daily</changefreq>
-      <priority>1</priority>
-    </url>
-  
-    <url>
       <loc>https://hrodaleve.netlify.app/blog</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://hrodaleve.netlify.app/</loc>
+      <changefreq>daily</changefreq>
+      <priority>1</priority>
     </url>
   
     <url>
